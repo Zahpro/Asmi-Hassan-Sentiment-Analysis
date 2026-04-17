@@ -11,3 +11,5 @@ This project analyzes audience comments on the Iraqi drama "Asmi Hassan" using P
 - Pandas, NumPy
 - arabic reshape
 - Matplotlib, Seaborn
+## Presentation
+The full presentation slides (Asmi_Hassan_Text_Mining) are included in this repository for reference.
